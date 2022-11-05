@@ -60,4 +60,5 @@ Following is a list of automatically extracted ideas related to HAI from twitter
 If you are using the code or the data shared in this repository, please cite the following paper:
 
 Link to the Thesis 
+
 Link to the published paper
