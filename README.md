@@ -10,7 +10,7 @@ For more information on how to install the required libraries, please visit: htt
 
 The following picture demostrates the architecture of the model:
 <div>
-<img src="images/model.png" width="1000"/>
+<img src="images/model.png" width="700"/>
 </div>
 
 ![Alt text](images/experiment1.png?raw=true "Transfer learning using BERTweet language model")
