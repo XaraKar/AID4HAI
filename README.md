@@ -25,6 +25,7 @@ Before using this dataset you need to extract the tweet's text using  Twitter de
 
 An easy way to extract the tweets information is to place it at the end of the following link: https://twitter.com/bramus/status/<twitter_id> e.g. https://twitter.com/bramus/status/932586791953158144
 
+![Alt text](images/table1.png?raw=true "table1")
 
 # Citation
 If you are using the code or the data shared in this repository, please cite the following paper:
