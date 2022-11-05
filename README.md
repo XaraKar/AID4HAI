@@ -13,8 +13,12 @@ The following picture demostrates the architecture of the model:
 <img src="images/model.png" width="700"/>
 </div>
 
-![Alt text](images/experiment1.png?raw=true "Transfer learning using BERTweet language model")
-![Alt text](images/experiment2.png?raw=true "Transfer learning using BERTweet language model")
+<div>
+<img src="images/experiment1.png" width="800"/>
+</div>
+<div>
+<img src="images/experiment2.png" width="800"/>
+</div>
 
 
 # Dataset
@@ -56,7 +60,10 @@ An easy way to extract the tweets information is to place it at the end of the f
 # Conclusion
 
 Following is a list of automatically extracted ideas related to HAI from twitter:
-![Alt text](images/ideas.png?raw=true "idea")
+<div>
+<img src="images/ideas.png" width="800"/>
+</div>
+
 
 # Citation
 If you are using the code or the data shared in this repository, please cite the following paper:
