@@ -30,11 +30,11 @@ df = pd.concat([df_ac1, df_ac2, df_ac3, df_ac4, df_bc1, df_bc2, df_bc3, df_bc4])
 
 def add_sum_label_weighted(df1):
     # replace nan with zero
-    df1['label_Zahra'] = df1['label_Zahra'].fillna(0)
-    df1['label_Hanna'] = df1['label_Hanna'].fillna(0)
-    df1['label_Maj'] = df1['label_Maj'].fillna(0)
+    df1['label1'] = df1['label1'].fillna(0)
+    df1['label2'] = df1['label2'].fillna(0)
+    df1['label3'] = df1['label3'].fillna(0)
 
-    df1['label_sum'] = df1['label_Zahra'] + df1['label_Hanna'] + df1['label_Maj']
+    df1['label_sum'] = df1['label1'] + df1['label2'] + df1['label3']
 
     # remove gray labels
     df = df1[df1['label_sum'] != 1]
