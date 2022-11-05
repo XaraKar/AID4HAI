@@ -8,7 +8,7 @@ The code is based on RoBERTa model from Huggingface’s transformers library. ht
 
 For more information on how to install the required libraries, please visit: https://towardsdatascience.com/tensorflow-and-transformers-df6fceaf57cc
 
-The following picture demostrates the architecture of the model:
+The following figure illusterates the architecture of the model:
 <div>
 <img src="images/model.png" width="700"/>
 </div>
