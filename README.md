@@ -32,14 +32,24 @@ An easy way to extract the tweets information is to place it at the end of the f
 <div>
 <img src="images/table1.png" width="500"/>
 </div>
-
-![Alt text](images/table1.png?raw=true "table1")
-![Alt text](images/table2.png?raw=true "table2")
-![Alt text](images/table3.png?raw=true "table3")
-![Alt text](images/table4.png?raw=true "table4")
-![Alt text](images/table5.png?raw=true "table5")
-![Alt text](images/table6.png?raw=true "table6")
-![Alt text](images/table7.png?raw=true "table7")
+<div>
+<img src="images/table2.png" width="500"/>
+</div>
+<div>
+<img src="images/table3.png" width="500"/>
+</div>
+<div>
+<img src="images/table4.png" width="500"/>
+</div>
+<div>
+<img src="images/table5.png" width="500"/>
+</div>
+<div>
+<img src="images/table6.png" width="500"/>
+</div>
+<div>
+<img src="images/table7.png" width="500"/>
+</div>
 
 # Conclusion
 
