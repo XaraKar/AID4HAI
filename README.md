@@ -29,7 +29,7 @@ Before using this dataset you need to extract the tweet's text using  Twitter de
 
 An easy way to extract the tweets information is to place it at the end of the following link: https://twitter.com/bramus/status/<twitter_id> e.g. https://twitter.com/bramus/status/932586791953158144
 
-![Alt text](images/table1.png?raw=true "table1")
+![Alt text](images/table1.png?raw=true "table1" width="500")
 ![Alt text](images/table2.png?raw=true "table2")
 ![Alt text](images/table3.png?raw=true "table3")
 ![Alt text](images/table4.png?raw=true "table4")
