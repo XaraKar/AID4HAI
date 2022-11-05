@@ -11,6 +11,10 @@ For more information on how to install the required libraries, please visit: htt
 The following picture demostrates the architecture of the model:
 ![Alt text](images/model.png?raw=true "Transfer learning using BERTweet language model")
 
+![Alt text](images/experiment1.png?raw=true "Transfer learning using BERTweet language model")
+![Alt text](images/experiment2.png?raw=true "Transfer learning using BERTweet language model")
+
+
 # Dataset
 
 AID4HAI dataset is a collection of Tweets related to Controling Healthcare-Associated Infections.
