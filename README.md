@@ -8,6 +8,8 @@ The code is based on RoBERTa model from Huggingface’s transformers library. ht
 
 For more information on how to install the required libraries, please visit: https://towardsdatascience.com/tensorflow-and-transformers-df6fceaf57cc
 
+![Alt text](images/model.png?raw=true "Title")
+
 # Dataset
 
 AID4HAI dataset is a collection of Tweets related to Controling Healthcare-Associated Infections.
