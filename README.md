@@ -31,6 +31,7 @@ An easy way to extract the tweets information is to place it at the end of the f
 ![Alt text](images/table4.png?raw=true "table4")
 ![Alt text](images/table5.png?raw=true "table5")
 ![Alt text](images/table6.png?raw=true "table6")
+![Alt text](images/table7.png?raw=true "table7")
 
 
 # Citation
