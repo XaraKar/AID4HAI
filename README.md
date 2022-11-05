@@ -40,7 +40,7 @@ An easy way to extract the tweets information is to place it at the end of the f
 # Conclusion
 
 Following is a list of automatically extracted ideas related to HAI from twitter:
-![Alt text](images/idea.png?raw=true "idea")
+![Alt text](images/ideas.png?raw=true "idea")
 
 # Citation
 If you are using the code or the data shared in this repository, please cite the following paper:
