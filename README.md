@@ -31,9 +31,13 @@ Each tweet is labeled by three anotators indicating whether it includes an idea 
 
 Tweets suggesting an idea are marked by 1 others by label 0.
 
-Before using this dataset you need to extract the tweet's text using  Twitter developer account.
+Before using this dataset you need to extract the tweet's text using a Twitter developer account.
 
 An easy way to extract the tweets information is to place it at the end of the following link: https://twitter.com/bramus/status/<twitter_id> e.g. https://twitter.com/bramus/status/932586791953158144
+
+
+Following is a summary of some statics from the dataset:
+
 
 <div>
 <img src="images/table1.png" width="500"/>
