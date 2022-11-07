@@ -221,10 +221,10 @@ def build_model(training_type):
 
     if training_type == 0:
         # and train it
-        history = model.fit(train, validation_data=val, epochs=2, callbacks=[callback])
+        history = model.fit(train, validation_data=val, epochs=100, callbacks=[callback])
     else:
         # and train it
-        history = model.fit(train_weighted, validation_data=val, epochs=2, callbacks=[callback])
+        history = model.fit(train_weighted, validation_data=val, epochs=100, callbacks=[callback])
 
     return history, model
 
