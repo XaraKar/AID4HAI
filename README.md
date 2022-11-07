@@ -36,7 +36,7 @@ Before using this dataset you need to extract the tweet's text using a Twitter d
 An easy way to extract the tweets information is to place it at the end of the following link: https://twitter.com/bramus/status/<twitter_id> e.g. https://twitter.com/bramus/status/932586791953158144
 
 
-Following is a summary of some statics from the dataset:
+Following is a summary of some statistics from the dataset:
 
 
 <div>
