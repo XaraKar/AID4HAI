@@ -13,6 +13,8 @@ The following figure illusterates the architecture of the model:
 <img src="images/model.png" width="700"/>
 </div>
 
+# Results on the dataset
+
 <div>
 <img src="images/experiment1.png" width="800"/>
 </div>
