@@ -13,14 +13,6 @@ The following figure illusterates the architecture of the model:
 <img src="images/model.png" width="700"/>
 </div>
 
-# Results on the dataset
-
-<div>
-<img src="images/experiment1.png" width="800"/>
-</div>
-<div>
-<img src="images/experiment2.png" width="800"/>
-</div>
 
 
 # Dataset
@@ -62,6 +54,16 @@ Following is a summary of some statistics from the dataset:
 <div>
 <img src="images/table7.png" width="500"/>
 </div>
+
+# Results on the Dataset
+
+<div>
+<img src="images/experiment1.png" width="800"/>
+</div>
+<div>
+<img src="images/experiment2.png" width="800"/>
+</div>
+
 
 # Conclusion
 
