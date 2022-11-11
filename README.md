@@ -13,7 +13,11 @@ The following figure illusterates the architecture of the model:
 <img src="images/model.png" width="700"/>
 </div>
 
+Here is how we transformed the annotations to weighted lables for training and evaluation of the model:
 
+<div>
+<img src="images/starts.png" width="600"/>
+</div>
 
 # Dataset
 
@@ -71,6 +75,13 @@ Following is a list of automatically extracted ideas related to HAI from twitter
 <div>
 <img src="images/ideas.png" width="800"/>
 </div>
+
+A figure of automatically extracted ideas related to HAI from twitter on two axis of product/service and behaviour/technology:
+
+<div>
+<img src="images/ideas_on_axis.png" width="700"/>
+</div>
+
 
 
 # Citation
