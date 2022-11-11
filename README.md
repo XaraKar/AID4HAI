@@ -13,10 +13,10 @@ The following figure illusterates the architecture of the model:
 <img src="images/model.png" width="700"/>
 </div>
 
-Here is how we transformed the annotations to lables for training the model:
+Here is how we transformed the annotations to lables for training and evaluation of the model:
 
 <div>
-<img src="images/starts.png" width="700"/>
+<img src="images/starts.png" width="400"/>
 </div>
 
 # Dataset
