@@ -72,7 +72,7 @@ Following is a list of automatically extracted ideas related to HAI from twitter
 <img src="images/ideas.png" width="800"/>
 </div>
 
-A figure of automatically extracted ideas related to HAI from twitter on two axis of product/service and behavoiur/technology:
+A figure of automatically extracted ideas related to HAI from twitter on two axis of product/service and behaviour/technology:
 
 <div>
 <img src="images/ideas_on_axis.png" width="700"/>
