@@ -8,11 +8,11 @@ The code is based on RoBERTa model from Huggingface’s transformers library. ht
 
 For more information on how to install the required libraries, please visit: https://towardsdatascience.com/tensorflow-and-transformers-df6fceaf57cc
 
-The following picture demostrates the architecture of the model:
-![Alt text](images/model.png?raw=true "Transfer learning using BERTweet language model")
+The following figure illusterates the architecture of the model:
+<div>
+<img src="images/model.png" width="700"/>
+</div>
 
-![Alt text](images/experiment1.png?raw=true "Transfer learning using BERTweet language model")
-![Alt text](images/experiment2.png?raw=true "Transfer learning using BERTweet language model")
 
 
 # Dataset
@@ -25,20 +25,57 @@ Each tweet is labeled by three anotators indicating whether it includes an idea 
 
 Tweets suggesting an idea are marked by 1 others by label 0.
 
-Before using this dataset you need to extract the tweet's text using  Twitter developer account.
+Before using this dataset you need to extract the tweet's text using a Twitter developer account.
 
 An easy way to extract the tweets information is to place it at the end of the following link: https://twitter.com/bramus/status/<twitter_id> e.g. https://twitter.com/bramus/status/932586791953158144
 
-![Alt text](images/table1.png?raw=true "table1")
-![Alt text](images/table2.png?raw=true "table2")
-![Alt text](images/table3.png?raw=true "table3")
-![Alt text](images/table4.png?raw=true "table4")
-![Alt text](images/table5.png?raw=true "table5")
-![Alt text](images/table6.png?raw=true "table6")
-![Alt text](images/table7.png?raw=true "table7")
+
+Following is a summary of some statistics from the dataset:
+
+
+<div>
+<img src="images/table1.png" width="500"/>
+</div>
+<div>
+<img src="images/table2.png" width="500"/>
+</div>
+<div>
+<img src="images/table3.png" width="500"/>
+</div>
+<div>
+<img src="images/table4.png" width="500"/>
+</div>
+<div>
+<img src="images/table5.png" width="500"/>
+</div>
+<div>
+<img src="images/table6.png" width="500"/>
+</div>
+<div>
+<img src="images/table7.png" width="500"/>
+</div>
+
+# Results on the Dataset
+
+<div>
+<img src="images/experiment1.png" width="800"/>
+</div>
+<div>
+<img src="images/experiment2.png" width="800"/>
+</div>
+
+
+# Conclusion
+
+Following is a list of automatically extracted ideas related to HAI from twitter:
+<div>
+<img src="images/ideas.png" width="800"/>
+</div>
 
 
 # Citation
 If you are using the code or the data shared in this repository, please cite the following paper:
 
-!fill in paper citation information!
+Link to the Thesis 
+
+Link to the published paper
